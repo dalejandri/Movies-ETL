@@ -5,10 +5,23 @@ Amazing Prime loves the dataset and wants to keep it updated on a daily basis. B
 
 ![](Intro.PNG)
 
-### This new assignment consists of four technical analysis deliverables:
+## This new assignment consists of four technical analysis deliverables:
 
-- Deliverable 1: Write an ETL Function to Read Three Data Files
-- Deliverable 2: Extract and Transform the Wikipedia Data
-- Deliverable 3: Extract and Transform the Kaggle data
-- Deliverable 4: Create the Movie Database
-The deliverables for this Challenge are as follows:
+### - Deliverable 1: Write an ETL Function to Read Three Data Files
+ Using Python, Pandas, the ETL process, and code refactoring, write a function that reads in the three data files and creates three separate DataFrames.
+ 
+![](Resources/1.PNG)
+
+
+### - Deliverable 2: Extract and Transform the Wikipedia Data
+
+![](Resources/2.PNG)
+
+### - Deliverable 3: Extract and Transform the Kaggle data
+
+![](Resources/3.PNG)
+
+
+### - Deliverable 4: Create the Movie Database
+
+![](Resources/4.PNG)
